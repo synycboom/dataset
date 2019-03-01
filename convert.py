@@ -66,7 +66,7 @@ for i in range(1, worksheet.nrows):
   if city_id not in city_map:
     city_map[city_id] = city_count
     city_data.append({
-      "model": "common.district",
+      "model": "common.city",
       "pk": city_count,
       "fields": {
         "name": city_name,
