@@ -1,0 +1,618 @@
+[
+    {
+        "model": "common.province",
+        "pk": 1,
+        "fields": {
+            "name": "กระบี่",
+            "active": true
+        }
+    },
+    {
+        "model": "common.province",
+        "pk": 2,
+        "fields": {
+            "name": "กรุงเทพมหานคร",
+            "active": true
+        }
+    },
+    {
+        "model": "common.province",
+        "pk": 3,
+        "fields": {
+            "name": "กาญจนบุรี",
+            "active": true
+        }
+    },
+    {
+        "model": "common.province",
+        "pk": 4,
+        "fields": {
+            "name": "กาฬสินธุ์",
+            "active": true
+        }
+    },
+    {
+        "model": "common.province",
+        "pk": 5,
+        "fields": {
+            "name": "กำแพงเพชร",
+            "active": true
+        }
+    },
+    {
+        "model": "common.province",
+        "pk": 6,
+        "fields": {
+            "name": "ขอนแก่น",
+            "active": true
+        }
+    },
+    {
+        "model": "common.province",
+        "pk": 7,
+        "fields": {
+            "name": "จันทบุรี",
+            "active": true
+        }
+    },
+    {
+        "model": "common.province",
+        "pk": 8,
+        "fields": {
+            "name": "ฉะเชิงเทรา",
+            "active": true
+        }
+    },
+    {
+        "model": "common.province",
+        "pk": 9,
+        "fields": {
+            "name": "ชลบุรี",
+            "active": true
+        }
+    },
+    {
+        "model": "common.province",
+        "pk": 10,
+        "fields": {
+            "name": "ชัยนาท",
+            "active": true
+        }
+    },
+    {
+        "model": "common.province",
+        "pk": 11,
+        "fields": {
+            "name": "ชัยภูมิ",
+            "active": true
+        }
+    },
+    {
+        "model": "common.province",
+        "pk": 12,
+        "fields": {
+            "name": "ชุมพร",
+            "active": true
+        }
+    },
+    {
+        "model": "common.province",
+        "pk": 13,
+        "fields": {
+            "name": "ตรัง",
+            "active": true
+        }
+    },
+    {
+        "model": "common.province",
+        "pk": 14,
+        "fields": {
+            "name": "ตราด",
+            "active": true
+        }
+    },
+    {
+        "model": "common.province",
+        "pk": 15,
+        "fields": {
+            "name": "ตาก",
+            "active": true
+        }
+    },
+    {
+        "model": "common.province",
+        "pk": 16,
+        "fields": {
+            "name": "นครนายก",
+            "active": true
+        }
+    },
+    {
+        "model": "common.province",
+        "pk": 17,
+        "fields": {
+            "name": "นครปฐม",
+            "active": true
+        }
+    },
+    {
+        "model": "common.province",
+        "pk": 18,
+        "fields": {
+            "name": "นครพนม",
+            "active": true
+        }
+    },
+    {
+        "model": "common.province",
+        "pk": 19,
+        "fields": {
+            "name": "นครราชสีมา",
+            "active": true
+        }
+    },
+    {
+        "model": "common.province",
+        "pk": 20,
+        "fields": {
+            "name": "นครศรีธรรมราช",
+            "active": true
+        }
+    },
+    {
+        "model": "common.province",
+        "pk": 21,
+        "fields": {
+            "name": "นครสวรรค์",
+            "active": true
+        }
+    },
+    {
+        "model": "common.province",
+        "pk": 22,
+        "fields": {
+            "name": "นนทบุรี",
+            "active": true
+        }
+    },
+    {
+        "model": "common.province",
+        "pk": 23,
+        "fields": {
+            "name": "นราธิวาส",
+            "active": true
+        }
+    },
+    {
+        "model": "common.province",
+        "pk": 24,
+        "fields": {
+            "name": "น่าน",
+            "active": true
+        }
+    },
+    {
+        "model": "common.province",
+        "pk": 25,
+        "fields": {
+            "name": "บึงกาฬ",
+            "active": true
+        }
+    },
+    {
+        "model": "common.province",
+        "pk": 26,
+        "fields": {
+            "name": "บุรีรัมย์",
+            "active": true
+        }
+    },
+    {
+        "model": "common.province",
+        "pk": 27,
+        "fields": {
+            "name": "ปทุมธานี",
+            "active": true
+        }
+    },
+    {
+        "model": "common.province",
+        "pk": 28,
+        "fields": {
+            "name": "ประจวบคีรีขันธ์",
+            "active": true
+        }
+    },
+    {
+        "model": "common.province",
+        "pk": 29,
+        "fields": {
+            "name": "ปราจีนบุรี",
+            "active": true
+        }
+    },
+    {
+        "model": "common.province",
+        "pk": 30,
+        "fields": {
+            "name": "ปัตตานี",
+            "active": true
+        }
+    },
+    {
+        "model": "common.province",
+        "pk": 31,
+        "fields": {
+            "name": "พระนครศรีอยุธยา",
+            "active": true
+        }
+    },
+    {
+        "model": "common.province",
+        "pk": 32,
+        "fields": {
+            "name": "พะเยา",
+            "active": true
+        }
+    },
+    {
+        "model": "common.province",
+        "pk": 33,
+        "fields": {
+            "name": "พังงา",
+            "active": true
+        }
+    },
+    {
+        "model": "common.province",
+        "pk": 34,
+        "fields": {
+            "name": "พัทลุง",
+            "active": true
+        }
+    },
+    {
+        "model": "common.province",
+        "pk": 35,
+        "fields": {
+            "name": "พิจิตร",
+            "active": true
+        }
+    },
+    {
+        "model": "common.province",
+        "pk": 36,
+        "fields": {
+            "name": "พิษณุโลก",
+            "active": true
+        }
+    },
+    {
+        "model": "common.province",
+        "pk": 37,
+        "fields": {
+            "name": "ภูเก็ต",
+            "active": true
+        }
+    },
+    {
+        "model": "common.province",
+        "pk": 38,
+        "fields": {
+            "name": "มหาสารคาม",
+            "active": true
+        }
+    },
+    {
+        "model": "common.province",
+        "pk": 39,
+        "fields": {
+            "name": "มุกดาหาร",
+            "active": true
+        }
+    },
+    {
+        "model": "common.province",
+        "pk": 40,
+        "fields": {
+            "name": "ยะลา",
+            "active": true
+        }
+    },
+    {
+        "model": "common.province",
+        "pk": 41,
+        "fields": {
+            "name": "ยโสธร",
+            "active": true
+        }
+    },
+    {
+        "model": "common.province",
+        "pk": 42,
+        "fields": {
+            "name": "ระนอง",
+            "active": true
+        }
+    },
+    {
+        "model": "common.province",
+        "pk": 43,
+        "fields": {
+            "name": "ระยอง",
+            "active": true
+        }
+    },
+    {
+        "model": "common.province",
+        "pk": 44,
+        "fields": {
+            "name": "ราชบุรี",
+            "active": true
+        }
+    },
+    {
+        "model": "common.province",
+        "pk": 45,
+        "fields": {
+            "name": "ร้อยเอ็ด",
+            "active": true
+        }
+    },
+    {
+        "model": "common.province",
+        "pk": 46,
+        "fields": {
+            "name": "ลพบุรี",
+            "active": true
+        }
+    },
+    {
+        "model": "common.province",
+        "pk": 47,
+        "fields": {
+            "name": "ลำปาง",
+            "active": true
+        }
+    },
+    {
+        "model": "common.province",
+        "pk": 48,
+        "fields": {
+            "name": "ลำพูน",
+            "active": true
+        }
+    },
+    {
+        "model": "common.province",
+        "pk": 49,
+        "fields": {
+            "name": "ศรีสะเกษ",
+            "active": true
+        }
+    },
+    {
+        "model": "common.province",
+        "pk": 50,
+        "fields": {
+            "name": "สกลนคร",
+            "active": true
+        }
+    },
+    {
+        "model": "common.province",
+        "pk": 51,
+        "fields": {
+            "name": "สงขลา",
+            "active": true
+        }
+    },
+    {
+        "model": "common.province",
+        "pk": 52,
+        "fields": {
+            "name": "สตูล",
+            "active": true
+        }
+    },
+    {
+        "model": "common.province",
+        "pk": 53,
+        "fields": {
+            "name": "สมุทรปราการ",
+            "active": true
+        }
+    },
+    {
+        "model": "common.province",
+        "pk": 54,
+        "fields": {
+            "name": "สมุทรสงคราม",
+            "active": true
+        }
+    },
+    {
+        "model": "common.province",
+        "pk": 55,
+        "fields": {
+            "name": "สมุทรสาคร",
+            "active": true
+        }
+    },
+    {
+        "model": "common.province",
+        "pk": 56,
+        "fields": {
+            "name": "สระบุรี",
+            "active": true
+        }
+    },
+    {
+        "model": "common.province",
+        "pk": 57,
+        "fields": {
+            "name": "สระแก้ว",
+            "active": true
+        }
+    },
+    {
+        "model": "common.province",
+        "pk": 58,
+        "fields": {
+            "name": "สิงห์บุรี",
+            "active": true
+        }
+    },
+    {
+        "model": "common.province",
+        "pk": 59,
+        "fields": {
+            "name": "สุพรรณบุรี",
+            "active": true
+        }
+    },
+    {
+        "model": "common.province",
+        "pk": 60,
+        "fields": {
+            "name": "สุราษฎร์ธานี",
+            "active": true
+        }
+    },
+    {
+        "model": "common.province",
+        "pk": 61,
+        "fields": {
+            "name": "สุรินทร์",
+            "active": true
+        }
+    },
+    {
+        "model": "common.province",
+        "pk": 62,
+        "fields": {
+            "name": "สุโขทัย",
+            "active": true
+        }
+    },
+    {
+        "model": "common.province",
+        "pk": 63,
+        "fields": {
+            "name": "หนองคาย",
+            "active": true
+        }
+    },
+    {
+        "model": "common.province",
+        "pk": 64,
+        "fields": {
+            "name": "หนองบัวลำภู",
+            "active": true
+        }
+    },
+    {
+        "model": "common.province",
+        "pk": 65,
+        "fields": {
+            "name": "อำนาจเจริญ",
+            "active": true
+        }
+    },
+    {
+        "model": "common.province",
+        "pk": 66,
+        "fields": {
+            "name": "อุดรธานี",
+            "active": true
+        }
+    },
+    {
+        "model": "common.province",
+        "pk": 67,
+        "fields": {
+            "name": "อุตรดิตถ์",
+            "active": true
+        }
+    },
+    {
+        "model": "common.province",
+        "pk": 68,
+        "fields": {
+            "name": "อุทัยธานี",
+            "active": true
+        }
+    },
+    {
+        "model": "common.province",
+        "pk": 69,
+        "fields": {
+            "name": "อุบลราชธานี",
+            "active": true
+        }
+    },
+    {
+        "model": "common.province",
+        "pk": 70,
+        "fields": {
+            "name": "อ่างทอง",
+            "active": true
+        }
+    },
+    {
+        "model": "common.province",
+        "pk": 71,
+        "fields": {
+            "name": "เชียงราย",
+            "active": true
+        }
+    },
+    {
+        "model": "common.province",
+        "pk": 72,
+        "fields": {
+            "name": "เชียงใหม่",
+            "active": true
+        }
+    },
+    {
+        "model": "common.province",
+        "pk": 73,
+        "fields": {
+            "name": "เพชรบุรี",
+            "active": true
+        }
+    },
+    {
+        "model": "common.province",
+        "pk": 74,
+        "fields": {
+            "name": "เพชรบูรณ์",
+            "active": true
+        }
+    },
+    {
+        "model": "common.province",
+        "pk": 75,
+        "fields": {
+            "name": "เลย",
+            "active": true
+        }
+    },
+    {
+        "model": "common.province",
+        "pk": 76,
+        "fields": {
+            "name": "แพร่",
+            "active": true
+        }
+    },
+    {
+        "model": "common.province",
+        "pk": 77,
+        "fields": {
+            "name": "แม่ฮ่องสอน",
+            "active": true
+        }
+    }
+]

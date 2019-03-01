@@ -1,0 +1,8345 @@
+[
+    {
+        "model": "common.district",
+        "pk": 1,
+        "fields": {
+            "name": "คลองท่อม",
+            "province": 1,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 2,
+        "fields": {
+            "name": "ปลายพระยา",
+            "province": 1,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 3,
+        "fields": {
+            "name": "ลำทับ",
+            "province": 1,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 4,
+        "fields": {
+            "name": "อ่าวลึก",
+            "province": 1,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 5,
+        "fields": {
+            "name": "เกาะลันตา",
+            "province": 1,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 6,
+        "fields": {
+            "name": "เขาพนม",
+            "province": 1,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 7,
+        "fields": {
+            "name": "เมืองกระบี่",
+            "province": 1,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 8,
+        "fields": {
+            "name": "เหนือคลอง",
+            "province": 1,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 9,
+        "fields": {
+            "name": "คลองสาน",
+            "province": 2,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 10,
+        "fields": {
+            "name": "คลองสามวา",
+            "province": 2,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 11,
+        "fields": {
+            "name": "คลองเตย",
+            "province": 2,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 12,
+        "fields": {
+            "name": "คันนายาว",
+            "province": 2,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 13,
+        "fields": {
+            "name": "จตุจักร",
+            "province": 2,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 14,
+        "fields": {
+            "name": "จอมทอง",
+            "province": 2,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 15,
+        "fields": {
+            "name": "ดอนเมือง",
+            "province": 2,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 16,
+        "fields": {
+            "name": "ดินแดง",
+            "province": 2,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 17,
+        "fields": {
+            "name": "ดุสิต",
+            "province": 2,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 18,
+        "fields": {
+            "name": "ตลิ่งชัน",
+            "province": 2,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 19,
+        "fields": {
+            "name": "ทวีวัฒนา",
+            "province": 2,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 20,
+        "fields": {
+            "name": "ทุ่งครุ",
+            "province": 2,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 21,
+        "fields": {
+            "name": "ธนบุรี",
+            "province": 2,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 22,
+        "fields": {
+            "name": "บางกอกน้อย",
+            "province": 2,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 23,
+        "fields": {
+            "name": "บางกอกใหญ่",
+            "province": 2,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 24,
+        "fields": {
+            "name": "บางกะปิ",
+            "province": 2,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 25,
+        "fields": {
+            "name": "บางขุนเทียน",
+            "province": 2,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 26,
+        "fields": {
+            "name": "บางคอแหลม",
+            "province": 2,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 27,
+        "fields": {
+            "name": "บางซื่อ",
+            "province": 2,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 28,
+        "fields": {
+            "name": "บางนา",
+            "province": 2,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 29,
+        "fields": {
+            "name": "บางบอน",
+            "province": 2,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 30,
+        "fields": {
+            "name": "บางพลัด",
+            "province": 2,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 31,
+        "fields": {
+            "name": "บางรัก",
+            "province": 2,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 32,
+        "fields": {
+            "name": "บางเขน",
+            "province": 2,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 33,
+        "fields": {
+            "name": "บางแค",
+            "province": 2,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 34,
+        "fields": {
+            "name": "บึงกุ่ม",
+            "province": 2,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 35,
+        "fields": {
+            "name": "ปทุมวัน",
+            "province": 2,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 36,
+        "fields": {
+            "name": "ประเวศ",
+            "province": 2,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 37,
+        "fields": {
+            "name": "ป้อมปราบศัตรูพ่าย",
+            "province": 2,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 38,
+        "fields": {
+            "name": "พญาไท",
+            "province": 2,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 39,
+        "fields": {
+            "name": "พระนคร",
+            "province": 2,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 40,
+        "fields": {
+            "name": "พระโขนง",
+            "province": 2,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 41,
+        "fields": {
+            "name": "ภาษีเจริญ",
+            "province": 2,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 42,
+        "fields": {
+            "name": "มีนบุรี",
+            "province": 2,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 43,
+        "fields": {
+            "name": "ยานนาวา",
+            "province": 2,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 44,
+        "fields": {
+            "name": "ราชเทวี",
+            "province": 2,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 45,
+        "fields": {
+            "name": "ราษฎร์บูรณะ",
+            "province": 2,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 46,
+        "fields": {
+            "name": "ลาดกระบัง",
+            "province": 2,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 47,
+        "fields": {
+            "name": "ลาดพร้าว",
+            "province": 2,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 48,
+        "fields": {
+            "name": "วังทองหลาง",
+            "province": 2,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 49,
+        "fields": {
+            "name": "วัฒนา",
+            "province": 2,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 50,
+        "fields": {
+            "name": "สวนหลวง",
+            "province": 2,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 51,
+        "fields": {
+            "name": "สะพานสูง",
+            "province": 2,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 52,
+        "fields": {
+            "name": "สัมพันธวงศ์",
+            "province": 2,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 53,
+        "fields": {
+            "name": "สาทร",
+            "province": 2,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 54,
+        "fields": {
+            "name": "สายไหม",
+            "province": 2,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 55,
+        "fields": {
+            "name": "หนองจอก",
+            "province": 2,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 56,
+        "fields": {
+            "name": "หนองแขม",
+            "province": 2,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 57,
+        "fields": {
+            "name": "หลักสี่",
+            "province": 2,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 58,
+        "fields": {
+            "name": "ห้วยขวาง",
+            "province": 2,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 59,
+        "fields": {
+            "name": "ด่านมะขามเตี้ย",
+            "province": 3,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 60,
+        "fields": {
+            "name": "ทองผาภูมิ",
+            "province": 3,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 61,
+        "fields": {
+            "name": "ท่ามะกา",
+            "province": 3,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 62,
+        "fields": {
+            "name": "ท่าม่วง",
+            "province": 3,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 63,
+        "fields": {
+            "name": "บ่อพลอย",
+            "province": 3,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 64,
+        "fields": {
+            "name": "พนมทวน",
+            "province": 3,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 65,
+        "fields": {
+            "name": "ศรีสวัสดิ์",
+            "province": 3,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 66,
+        "fields": {
+            "name": "สังขละบุรี",
+            "province": 3,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 67,
+        "fields": {
+            "name": "หนองปรือ",
+            "province": 3,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 68,
+        "fields": {
+            "name": "ห้วยกระเจา",
+            "province": 3,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 69,
+        "fields": {
+            "name": "เมืองกาญจนบุรี",
+            "province": 3,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 70,
+        "fields": {
+            "name": "เลาขวัญ",
+            "province": 3,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 71,
+        "fields": {
+            "name": "ไทรโยค",
+            "province": 3,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 72,
+        "fields": {
+            "name": "กมลาไสย",
+            "province": 4,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 73,
+        "fields": {
+            "name": "กุฉินารายณ์",
+            "province": 4,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 74,
+        "fields": {
+            "name": "คำม่วง",
+            "province": 4,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 75,
+        "fields": {
+            "name": "ฆ้องชัย",
+            "province": 4,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 76,
+        "fields": {
+            "name": "ดอนจาน",
+            "province": 4,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 77,
+        "fields": {
+            "name": "ท่าคันโท",
+            "province": 4,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 78,
+        "fields": {
+            "name": "นาคู",
+            "province": 4,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 79,
+        "fields": {
+            "name": "นามน",
+            "province": 4,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 80,
+        "fields": {
+            "name": "ยางตลาด",
+            "province": 4,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 81,
+        "fields": {
+            "name": "ร่องคำ",
+            "province": 4,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 82,
+        "fields": {
+            "name": "สมเด็จ",
+            "province": 4,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 83,
+        "fields": {
+            "name": "สหัสขันธ์",
+            "province": 4,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 84,
+        "fields": {
+            "name": "สามชัย",
+            "province": 4,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 85,
+        "fields": {
+            "name": "หนองกุงศรี",
+            "province": 4,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 86,
+        "fields": {
+            "name": "ห้วยผึ้ง",
+            "province": 4,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 87,
+        "fields": {
+            "name": "ห้วยเม็ก",
+            "province": 4,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 88,
+        "fields": {
+            "name": "เขาวง",
+            "province": 4,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 89,
+        "fields": {
+            "name": "เมืองกาฬสินธุ์",
+            "province": 4,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 90,
+        "fields": {
+            "name": "ขาณุวรลักษบุรี",
+            "province": 5,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 91,
+        "fields": {
+            "name": "คลองขลุง",
+            "province": 5,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 92,
+        "fields": {
+            "name": "คลองลาน",
+            "province": 5,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 93,
+        "fields": {
+            "name": "ทรายทองวัฒนา",
+            "province": 5,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 94,
+        "fields": {
+            "name": "บึงสามัคคี",
+            "province": 5,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 95,
+        "fields": {
+            "name": "ปางศิลาทอง",
+            "province": 5,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 96,
+        "fields": {
+            "name": "พรานกระต่าย",
+            "province": 5,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 97,
+        "fields": {
+            "name": "ลานกระบือ",
+            "province": 5,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 98,
+        "fields": {
+            "name": "เมืองกำแพงเพชร",
+            "province": 5,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 99,
+        "fields": {
+            "name": "โกสัมพีนคร",
+            "province": 5,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 100,
+        "fields": {
+            "name": "ไทรงาม",
+            "province": 5,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 101,
+        "fields": {
+            "name": "กระนวน",
+            "province": 6,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 102,
+        "fields": {
+            "name": "ชนบท",
+            "province": 6,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 103,
+        "fields": {
+            "name": "ชุมแพ",
+            "province": 6,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 104,
+        "fields": {
+            "name": "ซำสูง",
+            "province": 6,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 105,
+        "fields": {
+            "name": "น้ำพอง",
+            "province": 6,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 106,
+        "fields": {
+            "name": "บ้านฝาง",
+            "province": 6,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 107,
+        "fields": {
+            "name": "บ้านแฮด",
+            "province": 6,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 108,
+        "fields": {
+            "name": "บ้านไผ่",
+            "province": 6,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 109,
+        "fields": {
+            "name": "พระยืน",
+            "province": 6,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 110,
+        "fields": {
+            "name": "พล",
+            "province": 6,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 111,
+        "fields": {
+            "name": "ภูผาม่าน",
+            "province": 6,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 112,
+        "fields": {
+            "name": "ภูเวียง",
+            "province": 6,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 113,
+        "fields": {
+            "name": "มัญจาคีรี",
+            "province": 6,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 114,
+        "fields": {
+            "name": "สีชมพู",
+            "province": 6,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 115,
+        "fields": {
+            "name": "หนองนาคำ",
+            "province": 6,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 116,
+        "fields": {
+            "name": "หนองสองห้อง",
+            "province": 6,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 117,
+        "fields": {
+            "name": "หนองเรือ",
+            "province": 6,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 118,
+        "fields": {
+            "name": "อุบลรัตน์",
+            "province": 6,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 119,
+        "fields": {
+            "name": "เขาสวนกวาง",
+            "province": 6,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 120,
+        "fields": {
+            "name": "เปือยน้อย",
+            "province": 6,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 121,
+        "fields": {
+            "name": "เมืองขอนแก่น",
+            "province": 6,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 122,
+        "fields": {
+            "name": "แวงน้อย",
+            "province": 6,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 123,
+        "fields": {
+            "name": "แวงใหญ่",
+            "province": 6,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 124,
+        "fields": {
+            "name": "โคกโพธิ์ไชย",
+            "province": 6,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 125,
+        "fields": {
+            "name": "โนนศิลา",
+            "province": 6,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 126,
+        "fields": {
+            "name": "ขลุง",
+            "province": 7,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 127,
+        "fields": {
+            "name": "ท่าใหม่",
+            "province": 7,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 128,
+        "fields": {
+            "name": "นายายอาม",
+            "province": 7,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 129,
+        "fields": {
+            "name": "มะขาม",
+            "province": 7,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 130,
+        "fields": {
+            "name": "สอยดาว",
+            "province": 7,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 131,
+        "fields": {
+            "name": "เขาคิชฌกูฏ",
+            "province": 7,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 132,
+        "fields": {
+            "name": "เมืองจันทบุรี",
+            "province": 7,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 133,
+        "fields": {
+            "name": "แก่งหางแมว",
+            "province": 7,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 134,
+        "fields": {
+            "name": "แหลมสิงห์",
+            "province": 7,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 135,
+        "fields": {
+            "name": "โป่งน้ำร้อน",
+            "province": 7,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 136,
+        "fields": {
+            "name": "คลองเขื่อน",
+            "province": 8,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 137,
+        "fields": {
+            "name": "ท่าตะเกียบ",
+            "province": 8,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 138,
+        "fields": {
+            "name": "บางคล้า",
+            "province": 8,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 139,
+        "fields": {
+            "name": "บางน้ำเปรี้ยว",
+            "province": 8,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 140,
+        "fields": {
+            "name": "บางปะกง",
+            "province": 8,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 141,
+        "fields": {
+            "name": "บ้านโพธิ์",
+            "province": 8,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 142,
+        "fields": {
+            "name": "พนมสารคาม",
+            "province": 8,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 143,
+        "fields": {
+            "name": "ราชสาส์น",
+            "province": 8,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 144,
+        "fields": {
+            "name": "สนามชัยเขต",
+            "province": 8,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 145,
+        "fields": {
+            "name": "เมืองฉะเชิงเทรา",
+            "province": 8,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 146,
+        "fields": {
+            "name": "แปลงยาว",
+            "province": 8,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 147,
+        "fields": {
+            "name": "บางละมุง",
+            "province": 9,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 148,
+        "fields": {
+            "name": "บ่อทอง",
+            "province": 9,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 149,
+        "fields": {
+            "name": "บ้านบึง",
+            "province": 9,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 150,
+        "fields": {
+            "name": "พนัสนิคม",
+            "province": 9,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 151,
+        "fields": {
+            "name": "พานทอง",
+            "province": 9,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 152,
+        "fields": {
+            "name": "ศรีราชา",
+            "province": 9,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 153,
+        "fields": {
+            "name": "สัตหีบ",
+            "province": 9,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 154,
+        "fields": {
+            "name": "หนองใหญ่",
+            "province": 9,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 155,
+        "fields": {
+            "name": "เกาะจันทร์",
+            "province": 9,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 156,
+        "fields": {
+            "name": "เกาะสีชัง",
+            "province": 9,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 157,
+        "fields": {
+            "name": "เมืองชลบุรี",
+            "province": 9,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 158,
+        "fields": {
+            "name": "มโนรมย์",
+            "province": 10,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 159,
+        "fields": {
+            "name": "วัดสิงห์",
+            "province": 10,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 160,
+        "fields": {
+            "name": "สรรคบุรี",
+            "province": 10,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 161,
+        "fields": {
+            "name": "สรรพยา",
+            "province": 10,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 162,
+        "fields": {
+            "name": "หนองมะโมง",
+            "province": 10,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 163,
+        "fields": {
+            "name": "หันคา",
+            "province": 10,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 164,
+        "fields": {
+            "name": "เนินขาม",
+            "province": 10,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 165,
+        "fields": {
+            "name": "เมืองชัยนาท",
+            "province": 10,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 166,
+        "fields": {
+            "name": "คอนสวรรค์",
+            "province": 11,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 167,
+        "fields": {
+            "name": "คอนสาร",
+            "province": 11,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 168,
+        "fields": {
+            "name": "จัตุรัส",
+            "province": 11,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 169,
+        "fields": {
+            "name": "ซับใหญ่",
+            "province": 11,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 170,
+        "fields": {
+            "name": "บำเหน็จณรงค์",
+            "province": 11,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 171,
+        "fields": {
+            "name": "บ้านเขว้า",
+            "province": 11,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 172,
+        "fields": {
+            "name": "บ้านแท่น",
+            "province": 11,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 173,
+        "fields": {
+            "name": "ภักดีชุมพล",
+            "province": 11,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 174,
+        "fields": {
+            "name": "ภูเขียว",
+            "province": 11,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 175,
+        "fields": {
+            "name": "หนองบัวระเหว",
+            "province": 11,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 176,
+        "fields": {
+            "name": "หนองบัวแดง",
+            "province": 11,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 177,
+        "fields": {
+            "name": "เกษตรสมบูรณ์",
+            "province": 11,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 178,
+        "fields": {
+            "name": "เทพสถิต",
+            "province": 11,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 179,
+        "fields": {
+            "name": "เนินสง่า",
+            "province": 11,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 180,
+        "fields": {
+            "name": "เมืองชัยภูมิ",
+            "province": 11,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 181,
+        "fields": {
+            "name": "แก้งคร้อ",
+            "province": 11,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 182,
+        "fields": {
+            "name": "ทุ่งตะโก",
+            "province": 12,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 183,
+        "fields": {
+            "name": "ท่าแซะ",
+            "province": 12,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 184,
+        "fields": {
+            "name": "ปะทิว",
+            "province": 12,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 185,
+        "fields": {
+            "name": "พะโต๊ะ",
+            "province": 12,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 186,
+        "fields": {
+            "name": "ละแม",
+            "province": 12,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 187,
+        "fields": {
+            "name": "สวี",
+            "province": 12,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 188,
+        "fields": {
+            "name": "หลังสวน",
+            "province": 12,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 189,
+        "fields": {
+            "name": "เมืองชุมพร",
+            "province": 12,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 190,
+        "fields": {
+            "name": "กันตัง",
+            "province": 13,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 191,
+        "fields": {
+            "name": "นาโยง",
+            "province": 13,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 192,
+        "fields": {
+            "name": "ปะเหลียน",
+            "province": 13,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 193,
+        "fields": {
+            "name": "ย่านตาขาว",
+            "province": 13,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 194,
+        "fields": {
+            "name": "รัษฎา",
+            "province": 13,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 195,
+        "fields": {
+            "name": "วังวิเศษ",
+            "province": 13,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 196,
+        "fields": {
+            "name": "สิเกา",
+            "province": 13,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 197,
+        "fields": {
+            "name": "หาดสำราญ",
+            "province": 13,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 198,
+        "fields": {
+            "name": "ห้วยยอด",
+            "province": 13,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 199,
+        "fields": {
+            "name": "เมืองตรัง",
+            "province": 13,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 200,
+        "fields": {
+            "name": "คลองใหญ่",
+            "province": 14,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 201,
+        "fields": {
+            "name": "บ่อไร่",
+            "province": 14,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 202,
+        "fields": {
+            "name": "เกาะกูด",
+            "province": 14,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 203,
+        "fields": {
+            "name": "เกาะช้าง",
+            "province": 14,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 204,
+        "fields": {
+            "name": "เขาสมิง",
+            "province": 14,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 205,
+        "fields": {
+            "name": "เมืองตราด",
+            "province": 14,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 206,
+        "fields": {
+            "name": "แหลมงอบ",
+            "province": 14,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 207,
+        "fields": {
+            "name": "ท่าสองยาง",
+            "province": 15,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 208,
+        "fields": {
+            "name": "บ้านตาก",
+            "province": 15,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 209,
+        "fields": {
+            "name": "พบพระ",
+            "province": 15,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 210,
+        "fields": {
+            "name": "วังเจ้า",
+            "province": 15,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 211,
+        "fields": {
+            "name": "สามเงา",
+            "province": 15,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 212,
+        "fields": {
+            "name": "อุ้มผาง",
+            "province": 15,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 213,
+        "fields": {
+            "name": "เมืองตาก",
+            "province": 15,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 214,
+        "fields": {
+            "name": "แม่ระมาด",
+            "province": 15,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 215,
+        "fields": {
+            "name": "แม่สอด",
+            "province": 15,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 216,
+        "fields": {
+            "name": "บ้านนา",
+            "province": 16,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 217,
+        "fields": {
+            "name": "ปากพลี",
+            "province": 16,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 218,
+        "fields": {
+            "name": "องครักษ์",
+            "province": 16,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 219,
+        "fields": {
+            "name": "เมืองนครนายก",
+            "province": 16,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 220,
+        "fields": {
+            "name": "กำแพงแสน",
+            "province": 17,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 221,
+        "fields": {
+            "name": "ดอนตูม",
+            "province": 17,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 222,
+        "fields": {
+            "name": "นครชัยศรี",
+            "province": 17,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 223,
+        "fields": {
+            "name": "บางเลน",
+            "province": 17,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 224,
+        "fields": {
+            "name": "พุทธมณฑล",
+            "province": 17,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 225,
+        "fields": {
+            "name": "สามพราน",
+            "province": 17,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 226,
+        "fields": {
+            "name": "เมืองนครปฐม",
+            "province": 17,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 227,
+        "fields": {
+            "name": "ท่าอุเทน",
+            "province": 18,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 228,
+        "fields": {
+            "name": "ธาตุพนม",
+            "province": 18,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 229,
+        "fields": {
+            "name": "นาทม",
+            "province": 18,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 230,
+        "fields": {
+            "name": "นาหว้า",
+            "province": 18,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 231,
+        "fields": {
+            "name": "นาแก",
+            "province": 18,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 232,
+        "fields": {
+            "name": "บ้านแพง",
+            "province": 18,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 233,
+        "fields": {
+            "name": "ปลาปาก",
+            "province": 18,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 234,
+        "fields": {
+            "name": "วังยาง",
+            "province": 18,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 235,
+        "fields": {
+            "name": "ศรีสงคราม",
+            "province": 18,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 236,
+        "fields": {
+            "name": "เมืองนครพนม",
+            "province": 18,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 237,
+        "fields": {
+            "name": "เรณูนคร",
+            "province": 18,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 238,
+        "fields": {
+            "name": "โพนสวรรค์",
+            "province": 18,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 239,
+        "fields": {
+            "name": "ขามทะเลสอ",
+            "province": 19,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 240,
+        "fields": {
+            "name": "ขามสะแกแสง",
+            "province": 19,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 241,
+        "fields": {
+            "name": "คง",
+            "province": 19,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 242,
+        "fields": {
+            "name": "ครบุรี",
+            "province": 19,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 243,
+        "fields": {
+            "name": "จักราช",
+            "province": 19,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 244,
+        "fields": {
+            "name": "ชุมพวง",
+            "province": 19,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 245,
+        "fields": {
+            "name": "ด่านขุนทด",
+            "province": 19,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 246,
+        "fields": {
+            "name": "บัวลาย",
+            "province": 19,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 247,
+        "fields": {
+            "name": "บัวใหญ่",
+            "province": 19,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 248,
+        "fields": {
+            "name": "บ้านเหลื่อม",
+            "province": 19,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 249,
+        "fields": {
+            "name": "ประทาย",
+            "province": 19,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 250,
+        "fields": {
+            "name": "ปักธงชัย",
+            "province": 19,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 251,
+        "fields": {
+            "name": "ปากช่อง",
+            "province": 19,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 252,
+        "fields": {
+            "name": "พระทองคำ",
+            "province": 19,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 253,
+        "fields": {
+            "name": "พิมาย",
+            "province": 19,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 254,
+        "fields": {
+            "name": "ลำทะเมนชัย",
+            "province": 19,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 255,
+        "fields": {
+            "name": "วังน้ำเขียว",
+            "province": 19,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 256,
+        "fields": {
+            "name": "สีคิ้ว",
+            "province": 19,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 257,
+        "fields": {
+            "name": "สีดา",
+            "province": 19,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 258,
+        "fields": {
+            "name": "สูงเนิน",
+            "province": 19,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 259,
+        "fields": {
+            "name": "หนองบุญมาก",
+            "province": 19,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 260,
+        "fields": {
+            "name": "ห้วยแถลง",
+            "province": 19,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 261,
+        "fields": {
+            "name": "เฉลิมพระเกียรติ",
+            "province": 19,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 262,
+        "fields": {
+            "name": "เทพารักษ์",
+            "province": 19,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 263,
+        "fields": {
+            "name": "เมืองนครราชสีมา",
+            "province": 19,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 264,
+        "fields": {
+            "name": "เมืองยาง",
+            "province": 19,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 265,
+        "fields": {
+            "name": "เสิงสาง",
+            "province": 19,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 266,
+        "fields": {
+            "name": "แก้งสนามนาง",
+            "province": 19,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 267,
+        "fields": {
+            "name": "โชคชัย",
+            "province": 19,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 268,
+        "fields": {
+            "name": "โนนสูง",
+            "province": 19,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 269,
+        "fields": {
+            "name": "โนนแดง",
+            "province": 19,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 270,
+        "fields": {
+            "name": "โนนไทย",
+            "province": 19,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 271,
+        "fields": {
+            "name": "ขนอม",
+            "province": 20,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 272,
+        "fields": {
+            "name": "จุฬาภรณ์",
+            "province": 20,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 273,
+        "fields": {
+            "name": "ฉวาง",
+            "province": 20,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 274,
+        "fields": {
+            "name": "ชะอวด",
+            "province": 20,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 275,
+        "fields": {
+            "name": "ช้างกลาง",
+            "province": 20,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 276,
+        "fields": {
+            "name": "ถ้ำพรรณรา",
+            "province": 20,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 277,
+        "fields": {
+            "name": "ทุ่งสง",
+            "province": 20,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 278,
+        "fields": {
+            "name": "ทุ่งใหญ่",
+            "province": 20,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 279,
+        "fields": {
+            "name": "ท่าศาลา",
+            "province": 20,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 280,
+        "fields": {
+            "name": "นบพิตำ",
+            "province": 20,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 281,
+        "fields": {
+            "name": "นาบอน",
+            "province": 20,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 282,
+        "fields": {
+            "name": "บางขัน",
+            "province": 20,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 283,
+        "fields": {
+            "name": "ปากพนัง",
+            "province": 20,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 284,
+        "fields": {
+            "name": "พรหมคีรี",
+            "province": 20,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 285,
+        "fields": {
+            "name": "พระพรหม",
+            "province": 20,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 286,
+        "fields": {
+            "name": "พิปูน",
+            "province": 20,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 287,
+        "fields": {
+            "name": "ร่อนพิบูลย์",
+            "province": 20,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 288,
+        "fields": {
+            "name": "ลานสกา",
+            "province": 20,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 289,
+        "fields": {
+            "name": "สิชล",
+            "province": 20,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 290,
+        "fields": {
+            "name": "หัวไทร",
+            "province": 20,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 291,
+        "fields": {
+            "name": "เฉลิมพระเกียรติ",
+            "province": 20,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 292,
+        "fields": {
+            "name": "เชียรใหญ่",
+            "province": 20,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 293,
+        "fields": {
+            "name": "เมืองนครศรีธรรมราช",
+            "province": 20,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 294,
+        "fields": {
+            "name": "ชุมตาบง",
+            "province": 21,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 295,
+        "fields": {
+            "name": "ชุมแสง",
+            "province": 21,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 296,
+        "fields": {
+            "name": "ตากฟ้า",
+            "province": 21,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 297,
+        "fields": {
+            "name": "ตาคลี",
+            "province": 21,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 298,
+        "fields": {
+            "name": "ท่าตะโก",
+            "province": 21,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 299,
+        "fields": {
+            "name": "บรรพตพิสัย",
+            "province": 21,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 300,
+        "fields": {
+            "name": "พยุหะคีรี",
+            "province": 21,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 301,
+        "fields": {
+            "name": "ลาดยาว",
+            "province": 21,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 302,
+        "fields": {
+            "name": "หนองบัว",
+            "province": 21,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 303,
+        "fields": {
+            "name": "เก้าเลี้ยว",
+            "province": 21,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 304,
+        "fields": {
+            "name": "เมืองนครสวรรค์",
+            "province": 21,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 305,
+        "fields": {
+            "name": "แม่วงก์",
+            "province": 21,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 306,
+        "fields": {
+            "name": "แม่เปิน",
+            "province": 21,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 307,
+        "fields": {
+            "name": "โกรกพระ",
+            "province": 21,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 308,
+        "fields": {
+            "name": "ไพศาลี",
+            "province": 21,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 309,
+        "fields": {
+            "name": "บางกรวย",
+            "province": 22,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 310,
+        "fields": {
+            "name": "บางบัวทอง",
+            "province": 22,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 311,
+        "fields": {
+            "name": "บางใหญ่",
+            "province": 22,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 312,
+        "fields": {
+            "name": "ปากเกร็ด",
+            "province": 22,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 313,
+        "fields": {
+            "name": "เมืองนนทบุรี",
+            "province": 22,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 314,
+        "fields": {
+            "name": "ไทรน้อย",
+            "province": 22,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 315,
+        "fields": {
+            "name": "จะแนะ",
+            "province": 23,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 316,
+        "fields": {
+            "name": "ตากใบ",
+            "province": 23,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 317,
+        "fields": {
+            "name": "บาเจาะ",
+            "province": 23,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 318,
+        "fields": {
+            "name": "ยี่งอ",
+            "province": 23,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 319,
+        "fields": {
+            "name": "ระแงะ",
+            "province": 23,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 320,
+        "fields": {
+            "name": "รือเสาะ",
+            "province": 23,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 321,
+        "fields": {
+            "name": "ศรีสาคร",
+            "province": 23,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 322,
+        "fields": {
+            "name": "สุคิริน",
+            "province": 23,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 323,
+        "fields": {
+            "name": "สุไหงปาดี",
+            "province": 23,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 324,
+        "fields": {
+            "name": "สุไหงโก-ลก",
+            "province": 23,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 325,
+        "fields": {
+            "name": "เจาะไอร้อง",
+            "province": 23,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 326,
+        "fields": {
+            "name": "เมืองนราธิวาส",
+            "province": 23,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 327,
+        "fields": {
+            "name": "แว้ง",
+            "province": 23,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 328,
+        "fields": {
+            "name": "ทุ่งช้าง",
+            "province": 24,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 329,
+        "fields": {
+            "name": "ท่าวังผา",
+            "province": 24,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 330,
+        "fields": {
+            "name": "นาน้อย",
+            "province": 24,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 331,
+        "fields": {
+            "name": "นาหมื่น",
+            "province": 24,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 332,
+        "fields": {
+            "name": "บ่อเกลือ",
+            "province": 24,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 333,
+        "fields": {
+            "name": "บ้านหลวง",
+            "province": 24,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 334,
+        "fields": {
+            "name": "ปัว",
+            "province": 24,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 335,
+        "fields": {
+            "name": "ภูเพียง",
+            "province": 24,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 336,
+        "fields": {
+            "name": "สองแคว",
+            "province": 24,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 337,
+        "fields": {
+            "name": "สันติสุข",
+            "province": 24,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 338,
+        "fields": {
+            "name": "เฉลิมพระเกียรติ",
+            "province": 24,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 339,
+        "fields": {
+            "name": "เชียงกลาง",
+            "province": 24,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 340,
+        "fields": {
+            "name": "เมืองน่าน",
+            "province": 24,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 341,
+        "fields": {
+            "name": "เวียงสา",
+            "province": 24,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 342,
+        "fields": {
+            "name": "แม่จริม",
+            "province": 24,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 343,
+        "fields": {
+            "name": "บึงโขงหลง",
+            "province": 25,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 344,
+        "fields": {
+            "name": "บุ่งคล้า",
+            "province": 25,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 345,
+        "fields": {
+            "name": "ปากคาด",
+            "province": 25,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 346,
+        "fields": {
+            "name": "พรเจริญ",
+            "province": 25,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 347,
+        "fields": {
+            "name": "ศรีวิไล",
+            "province": 25,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 348,
+        "fields": {
+            "name": "เซกา",
+            "province": 25,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 349,
+        "fields": {
+            "name": "เมืองบึงกาฬ",
+            "province": 25,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 350,
+        "fields": {
+            "name": "โซ่พิสัย",
+            "province": 25,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 351,
+        "fields": {
+            "name": "กระสัง",
+            "province": 26,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 352,
+        "fields": {
+            "name": "คูเมือง",
+            "province": 26,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 353,
+        "fields": {
+            "name": "ชำนิ",
+            "province": 26,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 354,
+        "fields": {
+            "name": "นางรอง",
+            "province": 26,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 355,
+        "fields": {
+            "name": "นาโพธิ์",
+            "province": 26,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 356,
+        "fields": {
+            "name": "บ้านกรวด",
+            "province": 26,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 357,
+        "fields": {
+            "name": "บ้านด่าน",
+            "province": 26,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 358,
+        "fields": {
+            "name": "บ้านใหม่ไชยพจน์",
+            "province": 26,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 359,
+        "fields": {
+            "name": "ประโคนชัย",
+            "province": 26,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 360,
+        "fields": {
+            "name": "ปะคำ",
+            "province": 26,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 361,
+        "fields": {
+            "name": "พลับพลาชัย",
+            "province": 26,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 362,
+        "fields": {
+            "name": "พุทไธสง",
+            "province": 26,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 363,
+        "fields": {
+            "name": "ละหานทราย",
+            "province": 26,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 364,
+        "fields": {
+            "name": "ลำปลายมาศ",
+            "province": 26,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 365,
+        "fields": {
+            "name": "สตึก",
+            "province": 26,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 366,
+        "fields": {
+            "name": "หนองกี่",
+            "province": 26,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 367,
+        "fields": {
+            "name": "หนองหงส์",
+            "province": 26,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 368,
+        "fields": {
+            "name": "ห้วยราช",
+            "province": 26,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 369,
+        "fields": {
+            "name": "เฉลิมพระเกียรติ",
+            "province": 26,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 370,
+        "fields": {
+            "name": "เมืองบุรีรัมย์",
+            "province": 26,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 371,
+        "fields": {
+            "name": "แคนดง",
+            "province": 26,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 372,
+        "fields": {
+            "name": "โนนดินแดง",
+            "province": 26,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 373,
+        "fields": {
+            "name": "โนนสุวรรณ",
+            "province": 26,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 374,
+        "fields": {
+            "name": "คลองหลวง",
+            "province": 27,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 375,
+        "fields": {
+            "name": "ธัญบุรี",
+            "province": 27,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 376,
+        "fields": {
+            "name": "ลาดหลุมแก้ว",
+            "province": 27,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 377,
+        "fields": {
+            "name": "ลำลูกกา",
+            "province": 27,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 378,
+        "fields": {
+            "name": "สามโคก",
+            "province": 27,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 379,
+        "fields": {
+            "name": "หนองเสือ",
+            "province": 27,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 380,
+        "fields": {
+            "name": "เมืองปทุมธานี",
+            "province": 27,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 381,
+        "fields": {
+            "name": "กุยบุรี",
+            "province": 28,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 382,
+        "fields": {
+            "name": "ทับสะแก",
+            "province": 28,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 383,
+        "fields": {
+            "name": "บางสะพาน",
+            "province": 28,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 384,
+        "fields": {
+            "name": "บางสะพานน้อย",
+            "province": 28,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 385,
+        "fields": {
+            "name": "ปราณบุรี",
+            "province": 28,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 386,
+        "fields": {
+            "name": "สามร้อยยอด",
+            "province": 28,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 387,
+        "fields": {
+            "name": "หัวหิน",
+            "province": 28,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 388,
+        "fields": {
+            "name": "เมืองประจวบคีรีขันธ์",
+            "province": 28,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 389,
+        "fields": {
+            "name": "กบินทร์บุรี",
+            "province": 29,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 390,
+        "fields": {
+            "name": "นาดี",
+            "province": 29,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 391,
+        "fields": {
+            "name": "บ้านสร้าง",
+            "province": 29,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 392,
+        "fields": {
+            "name": "ประจันตคาม",
+            "province": 29,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 393,
+        "fields": {
+            "name": "ศรีมหาโพธิ",
+            "province": 29,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 394,
+        "fields": {
+            "name": "ศรีมโหสถ",
+            "province": 29,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 395,
+        "fields": {
+            "name": "เมืองปราจีนบุรี",
+            "province": 29,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 396,
+        "fields": {
+            "name": "กะพ้อ",
+            "province": 30,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 397,
+        "fields": {
+            "name": "ทุ่งยางแดง",
+            "province": 30,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 398,
+        "fields": {
+            "name": "ปะนาเระ",
+            "province": 30,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 399,
+        "fields": {
+            "name": "มายอ",
+            "province": 30,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 400,
+        "fields": {
+            "name": "ยะรัง",
+            "province": 30,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 401,
+        "fields": {
+            "name": "ยะหริ่ง",
+            "province": 30,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 402,
+        "fields": {
+            "name": "สายบุรี",
+            "province": 30,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 403,
+        "fields": {
+            "name": "หนองจิก",
+            "province": 30,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 404,
+        "fields": {
+            "name": "เมืองปัตตานี",
+            "province": 30,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 405,
+        "fields": {
+            "name": "แม่ลาน",
+            "province": 30,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 406,
+        "fields": {
+            "name": "โคกโพธิ์",
+            "province": 30,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 407,
+        "fields": {
+            "name": "ไม้แก่น",
+            "province": 30,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 408,
+        "fields": {
+            "name": "ท่าเรือ",
+            "province": 31,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 409,
+        "fields": {
+            "name": "นครหลวง",
+            "province": 31,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 410,
+        "fields": {
+            "name": "บางซ้าย",
+            "province": 31,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 411,
+        "fields": {
+            "name": "บางบาล",
+            "province": 31,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 412,
+        "fields": {
+            "name": "บางปะหัน",
+            "province": 31,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 413,
+        "fields": {
+            "name": "บางปะอิน",
+            "province": 31,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 414,
+        "fields": {
+            "name": "บางไทร",
+            "province": 31,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 415,
+        "fields": {
+            "name": "บ้านแพรก",
+            "province": 31,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 416,
+        "fields": {
+            "name": "ผักไห่",
+            "province": 31,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 417,
+        "fields": {
+            "name": "พระนครศรีอยุธยา",
+            "province": 31,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 418,
+        "fields": {
+            "name": "ภาชี",
+            "province": 31,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 419,
+        "fields": {
+            "name": "มหาราช",
+            "province": 31,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 420,
+        "fields": {
+            "name": "ลาดบัวหลวง",
+            "province": 31,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 421,
+        "fields": {
+            "name": "วังน้อย",
+            "province": 31,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 422,
+        "fields": {
+            "name": "อุทัย",
+            "province": 31,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 423,
+        "fields": {
+            "name": "เสนา",
+            "province": 31,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 424,
+        "fields": {
+            "name": "จุน",
+            "province": 32,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 425,
+        "fields": {
+            "name": "ดอกคำใต้",
+            "province": 32,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 426,
+        "fields": {
+            "name": "ปง",
+            "province": 32,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 427,
+        "fields": {
+            "name": "ภูกามยาว",
+            "province": 32,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 428,
+        "fields": {
+            "name": "ภูซาง",
+            "province": 32,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 429,
+        "fields": {
+            "name": "เชียงคำ",
+            "province": 32,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 430,
+        "fields": {
+            "name": "เชียงม่วน",
+            "province": 32,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 431,
+        "fields": {
+            "name": "เมืองพะเยา",
+            "province": 32,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 432,
+        "fields": {
+            "name": "แม่ใจ",
+            "province": 32,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 433,
+        "fields": {
+            "name": "กะปง",
+            "province": 33,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 434,
+        "fields": {
+            "name": "คุระบุรี",
+            "province": 33,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 435,
+        "fields": {
+            "name": "ตะกั่วทุ่ง",
+            "province": 33,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 436,
+        "fields": {
+            "name": "ตะกั่วป่า",
+            "province": 33,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 437,
+        "fields": {
+            "name": "ทับปุด",
+            "province": 33,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 438,
+        "fields": {
+            "name": "ท้ายเหมือง",
+            "province": 33,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 439,
+        "fields": {
+            "name": "เกาะยาว",
+            "province": 33,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 440,
+        "fields": {
+            "name": "เมืองพังงา",
+            "province": 33,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 441,
+        "fields": {
+            "name": "กงหรา",
+            "province": 34,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 442,
+        "fields": {
+            "name": "ควนขนุน",
+            "province": 34,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 443,
+        "fields": {
+            "name": "ตะโหมด",
+            "province": 34,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 444,
+        "fields": {
+            "name": "บางแก้ว",
+            "province": 34,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 445,
+        "fields": {
+            "name": "ปากพะยูน",
+            "province": 34,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 446,
+        "fields": {
+            "name": "ป่าบอน",
+            "province": 34,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 447,
+        "fields": {
+            "name": "ป่าพะยอม",
+            "province": 34,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 448,
+        "fields": {
+            "name": "ศรีนครินทร์",
+            "province": 34,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 449,
+        "fields": {
+            "name": "ศรีบรรพต",
+            "province": 34,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 450,
+        "fields": {
+            "name": "เขาชัยสน",
+            "province": 34,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 451,
+        "fields": {
+            "name": "เมืองพัทลุง",
+            "province": 34,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 452,
+        "fields": {
+            "name": "ดงเจริญ",
+            "province": 35,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 453,
+        "fields": {
+            "name": "ตะพานหิน",
+            "province": 35,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 454,
+        "fields": {
+            "name": "ทับคล้อ",
+            "province": 35,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 455,
+        "fields": {
+            "name": "บางมูลนาก",
+            "province": 35,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 456,
+        "fields": {
+            "name": "บึงนาราง",
+            "province": 35,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 457,
+        "fields": {
+            "name": "วชิรบารมี",
+            "province": 35,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 458,
+        "fields": {
+            "name": "วังทรายพูน",
+            "province": 35,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 459,
+        "fields": {
+            "name": "สากเหล็ก",
+            "province": 35,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 460,
+        "fields": {
+            "name": "สามง่าม",
+            "province": 35,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 461,
+        "fields": {
+            "name": "เมืองพิจิตร",
+            "province": 35,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 462,
+        "fields": {
+            "name": "โพทะเล",
+            "province": 35,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 463,
+        "fields": {
+            "name": "โพธิ์ประทับช้าง",
+            "province": 35,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 464,
+        "fields": {
+            "name": "ชาติตระการ",
+            "province": 36,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 465,
+        "fields": {
+            "name": "นครไทย",
+            "province": 36,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 466,
+        "fields": {
+            "name": "บางกระทุ่ม",
+            "province": 36,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 467,
+        "fields": {
+            "name": "บางระกำ",
+            "province": 36,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 468,
+        "fields": {
+            "name": "พรหมพิราม",
+            "province": 36,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 469,
+        "fields": {
+            "name": "วังทอง",
+            "province": 36,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 470,
+        "fields": {
+            "name": "วัดโบสถ์",
+            "province": 36,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 471,
+        "fields": {
+            "name": "เนินมะปราง",
+            "province": 36,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 472,
+        "fields": {
+            "name": "เมืองพิษณุโลก",
+            "province": 36,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 473,
+        "fields": {
+            "name": "กะทู้",
+            "province": 37,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 474,
+        "fields": {
+            "name": "ถลาง",
+            "province": 37,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 475,
+        "fields": {
+            "name": "เมืองภูเก็ต",
+            "province": 37,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 476,
+        "fields": {
+            "name": "กันทรวิชัย",
+            "province": 38,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 477,
+        "fields": {
+            "name": "กุดรัง",
+            "province": 38,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 478,
+        "fields": {
+            "name": "ชื่นชม",
+            "province": 38,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 479,
+        "fields": {
+            "name": "นาดูน",
+            "province": 38,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 480,
+        "fields": {
+            "name": "นาเชือก",
+            "province": 38,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 481,
+        "fields": {
+            "name": "บรบือ",
+            "province": 38,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 482,
+        "fields": {
+            "name": "พยัคฆภูมิพิสัย",
+            "province": 38,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 483,
+        "fields": {
+            "name": "ยางสีสุราช",
+            "province": 38,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 484,
+        "fields": {
+            "name": "วาปีปทุม",
+            "province": 38,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 485,
+        "fields": {
+            "name": "เชียงยืน",
+            "province": 38,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 486,
+        "fields": {
+            "name": "เมืองมหาสารคาม",
+            "province": 38,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 487,
+        "fields": {
+            "name": "แกดำ",
+            "province": 38,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 488,
+        "fields": {
+            "name": "โกสุมพิสัย",
+            "province": 38,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 489,
+        "fields": {
+            "name": "คำชะอี",
+            "province": 39,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 490,
+        "fields": {
+            "name": "ดงหลวง",
+            "province": 39,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 491,
+        "fields": {
+            "name": "ดอนตาล",
+            "province": 39,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 492,
+        "fields": {
+            "name": "นิคมคำสร้อย",
+            "province": 39,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 493,
+        "fields": {
+            "name": "หนองสูง",
+            "province": 39,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 494,
+        "fields": {
+            "name": "หว้านใหญ่",
+            "province": 39,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 495,
+        "fields": {
+            "name": "เมืองมุกดาหาร",
+            "province": 39,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 496,
+        "fields": {
+            "name": "กรงปินัง",
+            "province": 40,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 497,
+        "fields": {
+            "name": "กาบัง",
+            "province": 40,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 498,
+        "fields": {
+            "name": "ธารโต",
+            "province": 40,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 499,
+        "fields": {
+            "name": "บันนังสตา",
+            "province": 40,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 500,
+        "fields": {
+            "name": "ยะหา",
+            "province": 40,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 501,
+        "fields": {
+            "name": "รามัน",
+            "province": 40,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 502,
+        "fields": {
+            "name": "เบตง",
+            "province": 40,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 503,
+        "fields": {
+            "name": "เมืองยะลา",
+            "province": 40,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 504,
+        "fields": {
+            "name": "กุดชุม",
+            "province": 41,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 505,
+        "fields": {
+            "name": "คำเขื่อนแก้ว",
+            "province": 41,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 506,
+        "fields": {
+            "name": "ค้อวัง",
+            "province": 41,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 507,
+        "fields": {
+            "name": "ทรายมูล",
+            "province": 41,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 508,
+        "fields": {
+            "name": "ป่าติ้ว",
+            "province": 41,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 509,
+        "fields": {
+            "name": "มหาชนะชัย",
+            "province": 41,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 510,
+        "fields": {
+            "name": "เมืองยโสธร",
+            "province": 41,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 511,
+        "fields": {
+            "name": "เลิงนกทา",
+            "province": 41,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 512,
+        "fields": {
+            "name": "ไทยเจริญ",
+            "province": 41,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 513,
+        "fields": {
+            "name": "กระบุรี",
+            "province": 42,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 514,
+        "fields": {
+            "name": "กะเปอร์",
+            "province": 42,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 515,
+        "fields": {
+            "name": "ละอุ่น",
+            "province": 42,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 516,
+        "fields": {
+            "name": "สุขสำราญ",
+            "province": 42,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 517,
+        "fields": {
+            "name": "เมืองระนอง",
+            "province": 42,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 518,
+        "fields": {
+            "name": "นิคมพัฒนา",
+            "province": 43,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 519,
+        "fields": {
+            "name": "บ้านค่าย",
+            "province": 43,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 520,
+        "fields": {
+            "name": "บ้านฉาง",
+            "province": 43,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 521,
+        "fields": {
+            "name": "ปลวกแดง",
+            "province": 43,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 522,
+        "fields": {
+            "name": "วังจันทร์",
+            "province": 43,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 523,
+        "fields": {
+            "name": "เขาชะเมา",
+            "province": 43,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 524,
+        "fields": {
+            "name": "เมืองระยอง",
+            "province": 43,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 525,
+        "fields": {
+            "name": "แกลง",
+            "province": 43,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 526,
+        "fields": {
+            "name": "จอมบึง",
+            "province": 44,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 527,
+        "fields": {
+            "name": "ดำเนินสะดวก",
+            "province": 44,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 528,
+        "fields": {
+            "name": "บางแพ",
+            "province": 44,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 529,
+        "fields": {
+            "name": "บ้านคา",
+            "province": 44,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 530,
+        "fields": {
+            "name": "บ้านโป่ง",
+            "province": 44,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 531,
+        "fields": {
+            "name": "ปากท่อ",
+            "province": 44,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 532,
+        "fields": {
+            "name": "วัดเพลง",
+            "province": 44,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 533,
+        "fields": {
+            "name": "สวนผึ้ง",
+            "province": 44,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 534,
+        "fields": {
+            "name": "เมืองราชบุรี",
+            "province": 44,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 535,
+        "fields": {
+            "name": "โพธาราม",
+            "province": 44,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 536,
+        "fields": {
+            "name": "จตุรพักตร์พิมาน",
+            "province": 45,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 537,
+        "fields": {
+            "name": "จังหาร",
+            "province": 45,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 538,
+        "fields": {
+            "name": "ทุ่งเขาหลวง",
+            "province": 45,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 539,
+        "fields": {
+            "name": "ธวัชบุรี",
+            "province": 45,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 540,
+        "fields": {
+            "name": "ปทุมรัตต์",
+            "province": 45,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 541,
+        "fields": {
+            "name": "พนมไพร",
+            "province": 45,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 542,
+        "fields": {
+            "name": "ศรีสมเด็จ",
+            "province": 45,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 543,
+        "fields": {
+            "name": "สุวรรณภูมิ",
+            "province": 45,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 544,
+        "fields": {
+            "name": "หนองพอก",
+            "province": 45,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 545,
+        "fields": {
+            "name": "หนองฮี",
+            "province": 45,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 546,
+        "fields": {
+            "name": "อาจสามารถ",
+            "province": 45,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 547,
+        "fields": {
+            "name": "เกษตรวิสัย",
+            "province": 45,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 548,
+        "fields": {
+            "name": "เชียงขวัญ",
+            "province": 45,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 549,
+        "fields": {
+            "name": "เมยวดี",
+            "province": 45,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 550,
+        "fields": {
+            "name": "เมืองร้อยเอ็ด",
+            "province": 45,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 551,
+        "fields": {
+            "name": "เมืองสรวง",
+            "province": 45,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 552,
+        "fields": {
+            "name": "เสลภูมิ",
+            "province": 45,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 553,
+        "fields": {
+            "name": "โพธิ์ชัย",
+            "province": 45,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 554,
+        "fields": {
+            "name": "โพนทราย",
+            "province": 45,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 555,
+        "fields": {
+            "name": "โพนทอง",
+            "province": 45,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 556,
+        "fields": {
+            "name": "ชัยบาดาล",
+            "province": 46,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 557,
+        "fields": {
+            "name": "ท่าวุ้ง",
+            "province": 46,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 558,
+        "fields": {
+            "name": "ท่าหลวง",
+            "province": 46,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 559,
+        "fields": {
+            "name": "บ้านหมี่",
+            "province": 46,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 560,
+        "fields": {
+            "name": "พัฒนานิคม",
+            "province": 46,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 561,
+        "fields": {
+            "name": "ลำสนธิ",
+            "province": 46,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 562,
+        "fields": {
+            "name": "สระโบสถ์",
+            "province": 46,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 563,
+        "fields": {
+            "name": "หนองม่วง",
+            "province": 46,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 564,
+        "fields": {
+            "name": "เมืองลพบุรี",
+            "province": 46,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 565,
+        "fields": {
+            "name": "โคกสำโรง",
+            "province": 46,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 566,
+        "fields": {
+            "name": "โคกเจริญ",
+            "province": 46,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 567,
+        "fields": {
+            "name": "งาว",
+            "province": 47,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 568,
+        "fields": {
+            "name": "วังเหนือ",
+            "province": 47,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 569,
+        "fields": {
+            "name": "สบปราบ",
+            "province": 47,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 570,
+        "fields": {
+            "name": "ห้างฉัตร",
+            "province": 47,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 571,
+        "fields": {
+            "name": "เกาะคา",
+            "province": 47,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 572,
+        "fields": {
+            "name": "เถิน",
+            "province": 47,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 573,
+        "fields": {
+            "name": "เมืองปาน",
+            "province": 47,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 574,
+        "fields": {
+            "name": "เมืองลำปาง",
+            "province": 47,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 575,
+        "fields": {
+            "name": "เสริมงาม",
+            "province": 47,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 576,
+        "fields": {
+            "name": "แจ้ห่ม",
+            "province": 47,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 577,
+        "fields": {
+            "name": "แม่ทะ",
+            "province": 47,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 578,
+        "fields": {
+            "name": "แม่พริก",
+            "province": 47,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 579,
+        "fields": {
+            "name": "แม่เมาะ",
+            "province": 47,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 580,
+        "fields": {
+            "name": "ทุ่งหัวช้าง",
+            "province": 48,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 581,
+        "fields": {
+            "name": "บ้านธิ",
+            "province": 48,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 582,
+        "fields": {
+            "name": "บ้านโฮ่ง",
+            "province": 48,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 583,
+        "fields": {
+            "name": "ป่าซาง",
+            "province": 48,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 584,
+        "fields": {
+            "name": "ลี้",
+            "province": 48,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 585,
+        "fields": {
+            "name": "เมืองลำพูน",
+            "province": 48,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 586,
+        "fields": {
+            "name": "เวียงหนองล่อง",
+            "province": 48,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 587,
+        "fields": {
+            "name": "แม่ทา",
+            "province": 48,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 588,
+        "fields": {
+            "name": "กันทรลักษ์",
+            "province": 49,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 589,
+        "fields": {
+            "name": "กันทรารมย์",
+            "province": 49,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 590,
+        "fields": {
+            "name": "ขุขันธ์",
+            "province": 49,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 591,
+        "fields": {
+            "name": "ขุนหาญ",
+            "province": 49,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 592,
+        "fields": {
+            "name": "น้ำเกลี้ยง",
+            "province": 49,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 593,
+        "fields": {
+            "name": "บึงบูรพ์",
+            "province": 49,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 594,
+        "fields": {
+            "name": "ปรางค์กู่",
+            "province": 49,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 595,
+        "fields": {
+            "name": "พยุห์",
+            "province": 49,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 596,
+        "fields": {
+            "name": "ภูสิงห์",
+            "province": 49,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 597,
+        "fields": {
+            "name": "ยางชุมน้อย",
+            "province": 49,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 598,
+        "fields": {
+            "name": "ราษีไศล",
+            "province": 49,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 599,
+        "fields": {
+            "name": "วังหิน",
+            "province": 49,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 600,
+        "fields": {
+            "name": "ศรีรัตนะ",
+            "province": 49,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 601,
+        "fields": {
+            "name": "ศิลาลาด",
+            "province": 49,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 602,
+        "fields": {
+            "name": "ห้วยทับทัน",
+            "province": 49,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 603,
+        "fields": {
+            "name": "อุทุมพรพิสัย",
+            "province": 49,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 604,
+        "fields": {
+            "name": "เบญจลักษ์",
+            "province": 49,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 605,
+        "fields": {
+            "name": "เมืองจันทร์",
+            "province": 49,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 606,
+        "fields": {
+            "name": "เมืองศรีสะเกษ",
+            "province": 49,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 607,
+        "fields": {
+            "name": "โนนคูณ",
+            "province": 49,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 608,
+        "fields": {
+            "name": "โพธิ์ศรีสุวรรณ",
+            "province": 49,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 609,
+        "fields": {
+            "name": "ไพรบึง",
+            "province": 49,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 610,
+        "fields": {
+            "name": "กุดบาก",
+            "province": 50,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 611,
+        "fields": {
+            "name": "กุสุมาลย์",
+            "province": 50,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 612,
+        "fields": {
+            "name": "คำตากล้า",
+            "province": 50,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 613,
+        "fields": {
+            "name": "นิคมน้ำอูน",
+            "province": 50,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 614,
+        "fields": {
+            "name": "บ้านม่วง",
+            "province": 50,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 615,
+        "fields": {
+            "name": "พรรณานิคม",
+            "province": 50,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 616,
+        "fields": {
+            "name": "พังโคน",
+            "province": 50,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 617,
+        "fields": {
+            "name": "ภูพาน",
+            "province": 50,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 618,
+        "fields": {
+            "name": "วานรนิวาส",
+            "province": 50,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 619,
+        "fields": {
+            "name": "วาริชภูมิ",
+            "province": 50,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 620,
+        "fields": {
+            "name": "สว่างแดนดิน",
+            "province": 50,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 621,
+        "fields": {
+            "name": "ส่องดาว",
+            "province": 50,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 622,
+        "fields": {
+            "name": "อากาศอำนวย",
+            "province": 50,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 623,
+        "fields": {
+            "name": "เจริญศิลป์",
+            "province": 50,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 624,
+        "fields": {
+            "name": "เต่างอย",
+            "province": 50,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 625,
+        "fields": {
+            "name": "เมืองสกลนคร",
+            "province": 50,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 626,
+        "fields": {
+            "name": "โคกศรีสุพรรณ",
+            "province": 50,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 627,
+        "fields": {
+            "name": "โพนนาแก้ว",
+            "province": 50,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 628,
+        "fields": {
+            "name": "กระแสสินธุ์",
+            "province": 51,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 629,
+        "fields": {
+            "name": "คลองหอยโข่ง",
+            "province": 51,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 630,
+        "fields": {
+            "name": "ควนเนียง",
+            "province": 51,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 631,
+        "fields": {
+            "name": "จะนะ",
+            "province": 51,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 632,
+        "fields": {
+            "name": "นาทวี",
+            "province": 51,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 633,
+        "fields": {
+            "name": "นาหม่อม",
+            "province": 51,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 634,
+        "fields": {
+            "name": "บางกล่ำ",
+            "province": 51,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 635,
+        "fields": {
+            "name": "ระโนด",
+            "province": 51,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 636,
+        "fields": {
+            "name": "รัตภูมิ",
+            "province": 51,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 637,
+        "fields": {
+            "name": "สทิงพระ",
+            "province": 51,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 638,
+        "fields": {
+            "name": "สะบ้าย้อย",
+            "province": 51,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 639,
+        "fields": {
+            "name": "สะเดา",
+            "province": 51,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 640,
+        "fields": {
+            "name": "สิงหนคร",
+            "province": 51,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 641,
+        "fields": {
+            "name": "หาดใหญ่",
+            "province": 51,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 642,
+        "fields": {
+            "name": "เทพา",
+            "province": 51,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 643,
+        "fields": {
+            "name": "เมืองสงขลา",
+            "province": 51,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 644,
+        "fields": {
+            "name": "ควนกาหลง",
+            "province": 52,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 645,
+        "fields": {
+            "name": "ควนโดน",
+            "province": 52,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 646,
+        "fields": {
+            "name": "ทุ่งหว้า",
+            "province": 52,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 647,
+        "fields": {
+            "name": "ท่าแพ",
+            "province": 52,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 648,
+        "fields": {
+            "name": "มะนัง",
+            "province": 52,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 649,
+        "fields": {
+            "name": "ละงู",
+            "province": 52,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 650,
+        "fields": {
+            "name": "เมืองสตูล",
+            "province": 52,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 651,
+        "fields": {
+            "name": "บางบ่อ",
+            "province": 53,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 652,
+        "fields": {
+            "name": "บางพลี",
+            "province": 53,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 653,
+        "fields": {
+            "name": "บางเสาธง",
+            "province": 53,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 654,
+        "fields": {
+            "name": "พระประแดง",
+            "province": 53,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 655,
+        "fields": {
+            "name": "พระสมุทรเจดีย์",
+            "province": 53,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 656,
+        "fields": {
+            "name": "เมืองสมุทรปราการ",
+            "province": 53,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 657,
+        "fields": {
+            "name": "บางคนที",
+            "province": 54,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 658,
+        "fields": {
+            "name": "อัมพวา",
+            "province": 54,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 659,
+        "fields": {
+            "name": "เมืองสมุทรสงคราม",
+            "province": 54,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 660,
+        "fields": {
+            "name": "กระทุ่มแบน",
+            "province": 55,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 661,
+        "fields": {
+            "name": "บ้านแพ้ว",
+            "province": 55,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 662,
+        "fields": {
+            "name": "เมืองสมุทรสาคร",
+            "province": 55,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 663,
+        "fields": {
+            "name": "ดอนพุด",
+            "province": 56,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 664,
+        "fields": {
+            "name": "บ้านหมอ",
+            "province": 56,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 665,
+        "fields": {
+            "name": "พระพุทธบาท",
+            "province": 56,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 666,
+        "fields": {
+            "name": "มวกเหล็ก",
+            "province": 56,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 667,
+        "fields": {
+            "name": "วังม่วง",
+            "province": 56,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 668,
+        "fields": {
+            "name": "วิหารแดง",
+            "province": 56,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 669,
+        "fields": {
+            "name": "หนองแค",
+            "province": 56,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 670,
+        "fields": {
+            "name": "หนองแซง",
+            "province": 56,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 671,
+        "fields": {
+            "name": "หนองโดน",
+            "province": 56,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 672,
+        "fields": {
+            "name": "เฉลิมพระเกียรติ",
+            "province": 56,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 673,
+        "fields": {
+            "name": "เมืองสระบุรี",
+            "province": 56,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 674,
+        "fields": {
+            "name": "เสาไห้",
+            "province": 56,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 675,
+        "fields": {
+            "name": "แก่งคอย",
+            "province": 56,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 676,
+        "fields": {
+            "name": "คลองหาด",
+            "province": 57,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 677,
+        "fields": {
+            "name": "ตาพระยา",
+            "province": 57,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 678,
+        "fields": {
+            "name": "วังน้ำเย็น",
+            "province": 57,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 679,
+        "fields": {
+            "name": "วังสมบูรณ์",
+            "province": 57,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 680,
+        "fields": {
+            "name": "วัฒนานคร",
+            "province": 57,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 681,
+        "fields": {
+            "name": "อรัญประเทศ",
+            "province": 57,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 682,
+        "fields": {
+            "name": "เขาฉกรรจ์",
+            "province": 57,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 683,
+        "fields": {
+            "name": "เมืองสระแก้ว",
+            "province": 57,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 684,
+        "fields": {
+            "name": "โคกสูง",
+            "province": 57,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 685,
+        "fields": {
+            "name": "ค่ายบางระจัน",
+            "province": 58,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 686,
+        "fields": {
+            "name": "ท่าช้าง",
+            "province": 58,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 687,
+        "fields": {
+            "name": "บางระจัน",
+            "province": 58,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 688,
+        "fields": {
+            "name": "พรหมบุรี",
+            "province": 58,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 689,
+        "fields": {
+            "name": "อินทร์บุรี",
+            "province": 58,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 690,
+        "fields": {
+            "name": "เมืองสิงห์บุรี",
+            "province": 58,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 691,
+        "fields": {
+            "name": "ดอนเจดีย์",
+            "province": 59,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 692,
+        "fields": {
+            "name": "ด่านช้าง",
+            "province": 59,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 693,
+        "fields": {
+            "name": "บางปลาม้า",
+            "province": 59,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 694,
+        "fields": {
+            "name": "ศรีประจันต์",
+            "province": 59,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 695,
+        "fields": {
+            "name": "สองพี่น้อง",
+            "province": 59,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 696,
+        "fields": {
+            "name": "สามชุก",
+            "province": 59,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 697,
+        "fields": {
+            "name": "หนองหญ้าไซ",
+            "province": 59,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 698,
+        "fields": {
+            "name": "อู่ทอง",
+            "province": 59,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 699,
+        "fields": {
+            "name": "เดิมบางนางบวช",
+            "province": 59,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 700,
+        "fields": {
+            "name": "เมืองสุพรรณบุรี",
+            "province": 59,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 701,
+        "fields": {
+            "name": "กาญจนดิษฐ์",
+            "province": 60,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 702,
+        "fields": {
+            "name": "คีรีรัฐนิคม",
+            "province": 60,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 703,
+        "fields": {
+            "name": "ชัยบุรี",
+            "province": 60,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 704,
+        "fields": {
+            "name": "ดอนสัก",
+            "province": 60,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 705,
+        "fields": {
+            "name": "ท่าฉาง",
+            "province": 60,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 706,
+        "fields": {
+            "name": "ท่าชนะ",
+            "province": 60,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 707,
+        "fields": {
+            "name": "บ้านตาขุน",
+            "province": 60,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 708,
+        "fields": {
+            "name": "บ้านนาสาร",
+            "province": 60,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 709,
+        "fields": {
+            "name": "บ้านนาเดิม",
+            "province": 60,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 710,
+        "fields": {
+            "name": "พนม",
+            "province": 60,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 711,
+        "fields": {
+            "name": "พระแสง",
+            "province": 60,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 712,
+        "fields": {
+            "name": "พุนพิน",
+            "province": 60,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 713,
+        "fields": {
+            "name": "วิภาวดี",
+            "province": 60,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 714,
+        "fields": {
+            "name": "เกาะพะงัน",
+            "province": 60,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 715,
+        "fields": {
+            "name": "เกาะสมุย",
+            "province": 60,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 716,
+        "fields": {
+            "name": "เคียนซา",
+            "province": 60,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 717,
+        "fields": {
+            "name": "เมืองสุราษฎร์ธานี",
+            "province": 60,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 718,
+        "fields": {
+            "name": "เวียงสระ",
+            "province": 60,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 719,
+        "fields": {
+            "name": "ไชยา",
+            "province": 60,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 720,
+        "fields": {
+            "name": "กาบเชิง",
+            "province": 61,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 721,
+        "fields": {
+            "name": "จอมพระ",
+            "province": 61,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 722,
+        "fields": {
+            "name": "ชุมพลบุรี",
+            "province": 61,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 723,
+        "fields": {
+            "name": "ท่าตูม",
+            "province": 61,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 724,
+        "fields": {
+            "name": "บัวเชด",
+            "province": 61,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 725,
+        "fields": {
+            "name": "ปราสาท",
+            "province": 61,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 726,
+        "fields": {
+            "name": "พนมดงรัก",
+            "province": 61,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 727,
+        "fields": {
+            "name": "รัตนบุรี",
+            "province": 61,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 728,
+        "fields": {
+            "name": "ลำดวน",
+            "province": 61,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 729,
+        "fields": {
+            "name": "ศรีณรงค์",
+            "province": 61,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 730,
+        "fields": {
+            "name": "ศีขรภูมิ",
+            "province": 61,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 731,
+        "fields": {
+            "name": "สนม",
+            "province": 61,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 732,
+        "fields": {
+            "name": "สังขะ",
+            "province": 61,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 733,
+        "fields": {
+            "name": "สำโรงทาบ",
+            "province": 61,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 734,
+        "fields": {
+            "name": "เขวาสินรินทร์",
+            "province": 61,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 735,
+        "fields": {
+            "name": "เมืองสุรินทร์",
+            "province": 61,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 736,
+        "fields": {
+            "name": "โนนนารายณ์",
+            "province": 61,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 737,
+        "fields": {
+            "name": "กงไกรลาศ",
+            "province": 62,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 738,
+        "fields": {
+            "name": "คีรีมาศ",
+            "province": 62,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 739,
+        "fields": {
+            "name": "ทุ่งเสลี่ยม",
+            "province": 62,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 740,
+        "fields": {
+            "name": "บ้านด่านลานหอย",
+            "province": 62,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 741,
+        "fields": {
+            "name": "ศรีนคร",
+            "province": 62,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 742,
+        "fields": {
+            "name": "ศรีสัชนาลัย",
+            "province": 62,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 743,
+        "fields": {
+            "name": "ศรีสำโรง",
+            "province": 62,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 744,
+        "fields": {
+            "name": "สวรรคโลก",
+            "province": 62,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 745,
+        "fields": {
+            "name": "เมืองสุโขทัย",
+            "province": 62,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 746,
+        "fields": {
+            "name": "ท่าบ่อ",
+            "province": 63,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 747,
+        "fields": {
+            "name": "รัตนวาปี",
+            "province": 63,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 748,
+        "fields": {
+            "name": "ศรีเชียงใหม่",
+            "province": 63,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 749,
+        "fields": {
+            "name": "สระใคร",
+            "province": 63,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 750,
+        "fields": {
+            "name": "สังคม",
+            "province": 63,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 751,
+        "fields": {
+            "name": "เฝ้าไร่",
+            "province": 63,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 752,
+        "fields": {
+            "name": "เมืองหนองคาย",
+            "province": 63,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 753,
+        "fields": {
+            "name": "โพธิ์ตาก",
+            "province": 63,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 754,
+        "fields": {
+            "name": "โพนพิสัย",
+            "province": 63,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 755,
+        "fields": {
+            "name": "นากลาง",
+            "province": 64,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 756,
+        "fields": {
+            "name": "นาวัง",
+            "province": 64,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 757,
+        "fields": {
+            "name": "ศรีบุญเรือง",
+            "province": 64,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 758,
+        "fields": {
+            "name": "สุวรรณคูหา",
+            "province": 64,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 759,
+        "fields": {
+            "name": "เมืองหนองบัวลำภู",
+            "province": 64,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 760,
+        "fields": {
+            "name": "โนนสัง",
+            "province": 64,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 761,
+        "fields": {
+            "name": "ชานุมาน",
+            "province": 65,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 762,
+        "fields": {
+            "name": "ปทุมราชวงศา",
+            "province": 65,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 763,
+        "fields": {
+            "name": "พนา",
+            "province": 65,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 764,
+        "fields": {
+            "name": "ลืออำนาจ",
+            "province": 65,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 765,
+        "fields": {
+            "name": "หัวตะพาน",
+            "province": 65,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 766,
+        "fields": {
+            "name": "เมืองอำนาจเจริญ",
+            "province": 65,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 767,
+        "fields": {
+            "name": "เสนางคนิคม",
+            "province": 65,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 768,
+        "fields": {
+            "name": "กุดจับ",
+            "province": 66,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 769,
+        "fields": {
+            "name": "กุมภวาปี",
+            "province": 66,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 770,
+        "fields": {
+            "name": "กู่แก้ว",
+            "province": 66,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 771,
+        "fields": {
+            "name": "ทุ่งฝน",
+            "province": 66,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 772,
+        "fields": {
+            "name": "นายูง",
+            "province": 66,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 773,
+        "fields": {
+            "name": "น้ำโสม",
+            "province": 66,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 774,
+        "fields": {
+            "name": "บ้านดุง",
+            "province": 66,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 775,
+        "fields": {
+            "name": "บ้านผือ",
+            "province": 66,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 776,
+        "fields": {
+            "name": "ประจักษ์ศิลปาคม",
+            "province": 66,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 777,
+        "fields": {
+            "name": "พิบูลย์รักษ์",
+            "province": 66,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 778,
+        "fields": {
+            "name": "วังสามหมอ",
+            "province": 66,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 779,
+        "fields": {
+            "name": "ศรีธาตุ",
+            "province": 66,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 780,
+        "fields": {
+            "name": "สร้างคอม",
+            "province": 66,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 781,
+        "fields": {
+            "name": "หนองวัวซอ",
+            "province": 66,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 782,
+        "fields": {
+            "name": "หนองหาน",
+            "province": 66,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 783,
+        "fields": {
+            "name": "หนองแสง",
+            "province": 66,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 784,
+        "fields": {
+            "name": "เพ็ญ",
+            "province": 66,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 785,
+        "fields": {
+            "name": "เมืองอุดรธานี",
+            "province": 66,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 786,
+        "fields": {
+            "name": "โนนสะอาด",
+            "province": 66,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 787,
+        "fields": {
+            "name": "ไชยวาน",
+            "province": 66,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 788,
+        "fields": {
+            "name": "ตรอน",
+            "province": 67,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 789,
+        "fields": {
+            "name": "ทองแสนขัน",
+            "province": 67,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 790,
+        "fields": {
+            "name": "ท่าปลา",
+            "province": 67,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 791,
+        "fields": {
+            "name": "น้ำปาด",
+            "province": 67,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 792,
+        "fields": {
+            "name": "บ้านโคก",
+            "province": 67,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 793,
+        "fields": {
+            "name": "พิชัย",
+            "province": 67,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 794,
+        "fields": {
+            "name": "ฟากท่า",
+            "province": 67,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 795,
+        "fields": {
+            "name": "ลับแล",
+            "province": 67,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 796,
+        "fields": {
+            "name": "เมืองอุตรดิตถ์",
+            "province": 67,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 797,
+        "fields": {
+            "name": "ทัพทัน",
+            "province": 68,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 798,
+        "fields": {
+            "name": "บ้านไร่",
+            "province": 68,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 799,
+        "fields": {
+            "name": "ลานสัก",
+            "province": 68,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 800,
+        "fields": {
+            "name": "สว่างอารมณ์",
+            "province": 68,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 801,
+        "fields": {
+            "name": "หนองขาหย่าง",
+            "province": 68,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 802,
+        "fields": {
+            "name": "หนองฉาง",
+            "province": 68,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 803,
+        "fields": {
+            "name": "ห้วยคต",
+            "province": 68,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 804,
+        "fields": {
+            "name": "เมืองอุทัยธานี",
+            "province": 68,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 805,
+        "fields": {
+            "name": "กุดข้าวปุ้น",
+            "province": 69,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 806,
+        "fields": {
+            "name": "ดอนมดแดง",
+            "province": 69,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 807,
+        "fields": {
+            "name": "ตระการพืชผล",
+            "province": 69,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 808,
+        "fields": {
+            "name": "ตาลสุม",
+            "province": 69,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 809,
+        "fields": {
+            "name": "ทุ่งศรีอุดม",
+            "province": 69,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 810,
+        "fields": {
+            "name": "นาจะหลวย",
+            "province": 69,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 811,
+        "fields": {
+            "name": "นาตาล",
+            "province": 69,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 812,
+        "fields": {
+            "name": "นาเยีย",
+            "province": 69,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 813,
+        "fields": {
+            "name": "น้ำขุ่น",
+            "province": 69,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 814,
+        "fields": {
+            "name": "น้ำยืน",
+            "province": 69,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 815,
+        "fields": {
+            "name": "บุณฑริก",
+            "province": 69,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 816,
+        "fields": {
+            "name": "พิบูลมังสาหาร",
+            "province": 69,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 817,
+        "fields": {
+            "name": "ม่วงสามสิบ",
+            "province": 69,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 818,
+        "fields": {
+            "name": "วารินชำราบ",
+            "province": 69,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 819,
+        "fields": {
+            "name": "ศรีเมืองใหม่",
+            "province": 69,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 820,
+        "fields": {
+            "name": "สว่างวีระวงศ์",
+            "province": 69,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 821,
+        "fields": {
+            "name": "สำโรง",
+            "province": 69,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 822,
+        "fields": {
+            "name": "สิรินธร",
+            "province": 69,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 823,
+        "fields": {
+            "name": "เขมราฐ",
+            "province": 69,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 824,
+        "fields": {
+            "name": "เขื่องใน",
+            "province": 69,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 825,
+        "fields": {
+            "name": "เดชอุดม",
+            "province": 69,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 826,
+        "fields": {
+            "name": "เมืองอุบลราชธานี",
+            "province": 69,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 827,
+        "fields": {
+            "name": "เหล่าเสือโก้ก",
+            "province": 69,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 828,
+        "fields": {
+            "name": "โขงเจียม",
+            "province": 69,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 829,
+        "fields": {
+            "name": "โพธิ์ไทร",
+            "province": 69,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 830,
+        "fields": {
+            "name": "ป่าโมก",
+            "province": 70,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 831,
+        "fields": {
+            "name": "วิเศษชัยชาญ",
+            "province": 70,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 832,
+        "fields": {
+            "name": "สามโก้",
+            "province": 70,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 833,
+        "fields": {
+            "name": "เมืองอ่างทอง",
+            "province": 70,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 834,
+        "fields": {
+            "name": "แสวงหา",
+            "province": 70,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 835,
+        "fields": {
+            "name": "โพธิ์ทอง",
+            "province": 70,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 836,
+        "fields": {
+            "name": "ไชโย",
+            "province": 70,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 837,
+        "fields": {
+            "name": "ขุนตาล",
+            "province": 71,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 838,
+        "fields": {
+            "name": "ดอยหลวง",
+            "province": 71,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 839,
+        "fields": {
+            "name": "ป่าแดด",
+            "province": 71,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 840,
+        "fields": {
+            "name": "พญาเม็งราย",
+            "province": 71,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 841,
+        "fields": {
+            "name": "พาน",
+            "province": 71,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 842,
+        "fields": {
+            "name": "เชียงของ",
+            "province": 71,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 843,
+        "fields": {
+            "name": "เชียงแสน",
+            "province": 71,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 844,
+        "fields": {
+            "name": "เทิง",
+            "province": 71,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 845,
+        "fields": {
+            "name": "เมืองเชียงราย",
+            "province": 71,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 846,
+        "fields": {
+            "name": "เวียงชัย",
+            "province": 71,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 847,
+        "fields": {
+            "name": "เวียงป่าเป้า",
+            "province": 71,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 848,
+        "fields": {
+            "name": "เวียงเชียงรุ้ง",
+            "province": 71,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 849,
+        "fields": {
+            "name": "เวียงแก่น",
+            "province": 71,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 850,
+        "fields": {
+            "name": "แม่จัน",
+            "province": 71,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 851,
+        "fields": {
+            "name": "แม่ฟ้าหลวง",
+            "province": 71,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 852,
+        "fields": {
+            "name": "แม่ลาว",
+            "province": 71,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 853,
+        "fields": {
+            "name": "แม่สรวย",
+            "province": 71,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 854,
+        "fields": {
+            "name": "แม่สาย",
+            "province": 71,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 855,
+        "fields": {
+            "name": "กัลยาณิวัฒนา",
+            "province": 72,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 856,
+        "fields": {
+            "name": "จอมทอง",
+            "province": 72,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 857,
+        "fields": {
+            "name": "ดอยสะเก็ด",
+            "province": 72,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 858,
+        "fields": {
+            "name": "ดอยหล่อ",
+            "province": 72,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 859,
+        "fields": {
+            "name": "ดอยเต่า",
+            "province": 72,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 860,
+        "fields": {
+            "name": "ฝาง",
+            "province": 72,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 861,
+        "fields": {
+            "name": "พร้าว",
+            "province": 72,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 862,
+        "fields": {
+            "name": "สะเมิง",
+            "province": 72,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 863,
+        "fields": {
+            "name": "สันกำแพง",
+            "province": 72,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 864,
+        "fields": {
+            "name": "สันทราย",
+            "province": 72,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 865,
+        "fields": {
+            "name": "สันป่าตอง",
+            "province": 72,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 866,
+        "fields": {
+            "name": "สารภี",
+            "province": 72,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 867,
+        "fields": {
+            "name": "หางดง",
+            "province": 72,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 868,
+        "fields": {
+            "name": "อมก๋อย",
+            "province": 72,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 869,
+        "fields": {
+            "name": "ฮอด",
+            "province": 72,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 870,
+        "fields": {
+            "name": "เชียงดาว",
+            "province": 72,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 871,
+        "fields": {
+            "name": "เมืองเชียงใหม่",
+            "province": 72,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 872,
+        "fields": {
+            "name": "เวียงแหง",
+            "province": 72,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 873,
+        "fields": {
+            "name": "แม่ริม",
+            "province": 72,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 874,
+        "fields": {
+            "name": "แม่วาง",
+            "province": 72,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 875,
+        "fields": {
+            "name": "แม่ออน",
+            "province": 72,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 876,
+        "fields": {
+            "name": "แม่อาย",
+            "province": 72,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 877,
+        "fields": {
+            "name": "แม่แจ่ม",
+            "province": 72,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 878,
+        "fields": {
+            "name": "แม่แตง",
+            "province": 72,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 879,
+        "fields": {
+            "name": "ไชยปราการ",
+            "province": 72,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 880,
+        "fields": {
+            "name": "ชะอำ",
+            "province": 73,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 881,
+        "fields": {
+            "name": "ท่ายาง",
+            "province": 73,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 882,
+        "fields": {
+            "name": "บ้านลาด",
+            "province": 73,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 883,
+        "fields": {
+            "name": "บ้านแหลม",
+            "province": 73,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 884,
+        "fields": {
+            "name": "หนองหญ้าปล้อง",
+            "province": 73,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 885,
+        "fields": {
+            "name": "เขาย้อย",
+            "province": 73,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 886,
+        "fields": {
+            "name": "เมืองเพชรบุรี",
+            "province": 73,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 887,
+        "fields": {
+            "name": "แก่งกระจาน",
+            "province": 73,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 888,
+        "fields": {
+            "name": "ชนแดน",
+            "province": 74,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 889,
+        "fields": {
+            "name": "น้ำหนาว",
+            "province": 74,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 890,
+        "fields": {
+            "name": "บึงสามพัน",
+            "province": 74,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 891,
+        "fields": {
+            "name": "วังโป่ง",
+            "province": 74,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 892,
+        "fields": {
+            "name": "วิเชียรบุรี",
+            "province": 74,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 893,
+        "fields": {
+            "name": "ศรีเทพ",
+            "province": 74,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 894,
+        "fields": {
+            "name": "หนองไผ่",
+            "province": 74,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 895,
+        "fields": {
+            "name": "หล่มสัก",
+            "province": 74,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 896,
+        "fields": {
+            "name": "หล่มเก่า",
+            "province": 74,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 897,
+        "fields": {
+            "name": "เขาค้อ",
+            "province": 74,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 898,
+        "fields": {
+            "name": "เมืองเพชรบูรณ์",
+            "province": 74,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 899,
+        "fields": {
+            "name": "ด่านซ้าย",
+            "province": 75,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 900,
+        "fields": {
+            "name": "ท่าลี่",
+            "province": 75,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 901,
+        "fields": {
+            "name": "นาด้วง",
+            "province": 75,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 902,
+        "fields": {
+            "name": "นาแห้ว",
+            "province": 75,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 903,
+        "fields": {
+            "name": "ปากชม",
+            "province": 75,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 904,
+        "fields": {
+            "name": "ผาขาว",
+            "province": 75,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 905,
+        "fields": {
+            "name": "ภูกระดึง",
+            "province": 75,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 906,
+        "fields": {
+            "name": "ภูหลวง",
+            "province": 75,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 907,
+        "fields": {
+            "name": "ภูเรือ",
+            "province": 75,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 908,
+        "fields": {
+            "name": "วังสะพุง",
+            "province": 75,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 909,
+        "fields": {
+            "name": "หนองหิน",
+            "province": 75,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 910,
+        "fields": {
+            "name": "เชียงคาน",
+            "province": 75,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 911,
+        "fields": {
+            "name": "เมืองเลย",
+            "province": 75,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 912,
+        "fields": {
+            "name": "เอราวัณ",
+            "province": 75,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 913,
+        "fields": {
+            "name": "ร้องกวาง",
+            "province": 76,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 914,
+        "fields": {
+            "name": "ลอง",
+            "province": 76,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 915,
+        "fields": {
+            "name": "วังชิ้น",
+            "province": 76,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 916,
+        "fields": {
+            "name": "สอง",
+            "province": 76,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 917,
+        "fields": {
+            "name": "สูงเม่น",
+            "province": 76,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 918,
+        "fields": {
+            "name": "หนองม่วงไข่",
+            "province": 76,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 919,
+        "fields": {
+            "name": "เด่นชัย",
+            "province": 76,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 920,
+        "fields": {
+            "name": "เมืองแพร่",
+            "province": 76,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 921,
+        "fields": {
+            "name": "ขุนยวม",
+            "province": 77,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 922,
+        "fields": {
+            "name": "ปางมะผ้า",
+            "province": 77,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 923,
+        "fields": {
+            "name": "ปาย",
+            "province": 77,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 924,
+        "fields": {
+            "name": "สบเมย",
+            "province": 77,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 925,
+        "fields": {
+            "name": "เมืองแม่ฮ่องสอน",
+            "province": 77,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 926,
+        "fields": {
+            "name": "แม่ลาน้อย",
+            "province": 77,
+            "active": true
+        }
+    },
+    {
+        "model": "common.district",
+        "pk": 927,
+        "fields": {
+            "name": "แม่สะเรียง",
+            "province": 77,
+            "active": true
+        }
+    }
+]
